@@ -3,6 +3,10 @@ title = "Speaking"
 date = "2018-12-23"
 +++
 
+2019
+
+- Frick H (2019). _Building R Packages_ (Workshop). Presented at "Sainsbury's Data Conference", London, UK. [[slides]](https://github.com/hfrick/presentations/tree/master/2019-03-12_package_building)
+
 2018
 
 - Frick H (2018). _Tour of the tidyverse_. Presented at "YSS Statistical Showcase", London, UK.
