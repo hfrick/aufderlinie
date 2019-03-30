@@ -1,4 +1,5 @@
-baseURL = "http://hfrick.netlify.com/"
+#baseURL = "http://hfrick.netlify.com/"
+baseURL = "https://www.frick.ws/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Hannah Frick"
