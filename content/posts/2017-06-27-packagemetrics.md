@@ -107,7 +107,7 @@ Our discussions informed a list of things people commonly look for when they ins
 
  With that, we got to work!
 
- ![](https://pbs.twimg.com/media/DA7g9BZVwAAsPL2.jpg)
+ ![](/pics/runconf17_team_packagemetrics.jpeg)
 
 ## Introducing: packagemetrics
 
