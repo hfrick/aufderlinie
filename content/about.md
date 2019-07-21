@@ -3,7 +3,7 @@ title = "About"
 date = "2018-12-23"
 +++
 
-I work as a data scientist at Mango Solutions where I help organisations to become more data-driven through data science projects (with a focus on analytical projects) and training in R and Python. 
+I work as a senior data scientist at Mango Solutions where I help organisations to become more data-driven through data science projects (with a focus on analytical projects) and training in R and Python. 
 
 My background is in statistics and interdisciplinary research: my PhD project at Universit&auml;t Innsbruck was on the intersection of statistics, psychometrics and statistical computing and my PostDoc at University College London was in cooperation with Team GB Hockey in preparation for the 2016 Rio Olympics.
 

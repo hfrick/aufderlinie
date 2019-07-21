@@ -5,7 +5,13 @@ date = "2019-03-30"
 
 2019
 
+- Frick H (2019). _goodpractice - A Tool for Good Package Development_. Presented at "useR! 2019 - The R User Conference", Toulouse, France. [[slides]](https://github.com/hfrick/presentations/tree/master/2019-07-11_goodpractice)
+- Frick H, Kulma K (2019). _Explainable Machine Learning_. Presented at "SatRday Berlin", Berlin, Germany. [[material]](https://github.com/MangoTheCat/python-for-r-users-workshop)
+- Frick H, Kulma K (2019). _Explainable Machine Learning_. Presented at "Analytics Summit", London, UK. [[material]](https://github.com/MangoTheCat/python-for-r-users-workshop)
+- Frick H (2019). _Good Practice for R Packages_. Presented at "BarcelonaR", Barcelona, Spain.
+- Frick H (2019). _rstudio::conf Round-up_. Presented at "LondonR", London, UK.
 - Frick H (2019). _Building R Packages_ (Workshop). Presented at "Sainsbury's Data Conference", London, UK. [[slides]](https://github.com/hfrick/presentations/tree/master/2019-03-12_package_building)
+- Frick H (2019). _rstudio::conf Round-up_. Presented at "R-Ladies London", London, UK.
 
 2018
 
