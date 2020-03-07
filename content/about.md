@@ -1,6 +1,6 @@
 +++
 title = "About"
-date = "2018-12-23"
+date = "2019-06-01"
 +++
 
 I work as a senior data scientist at Mango Solutions where I help organisations to become more data-driven through data science projects (with a focus on analytical projects) and training in R and Python. 
