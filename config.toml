@@ -37,7 +37,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "Data Scientist and Statistician"
+  homeSubtitle = "Software Engineer | Statistician"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -65,7 +65,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://github.com/hfrick"
     
   # meetup for R-Ladies pro?
-  # email?
+  # Google Scholar? Orchid?
 
 [menu]
 
