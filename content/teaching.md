@@ -1,11 +1,15 @@
 +++
 title = "Teaching"
-date = "2018-12-23"
+date = "2020-02-01"
 +++
+
+## RStudio Certified Instructor
+
+I am a [certified instructor](https://education.rstudio.com/trainers/) for the tidyverse.
 
 ## Training courses
 
-At Mango, I'm involved in the development and delivery of various data science [training courses](https://www.mango-solutions.com/additional-solutions/r-training) in R and Python, e.g.,
+At [Mango Solutions](https://www.mango-solutions.com/training/r-training/), I was involved in the development and delivery of various data science training courses in R and Python, e.g.,
 
 - Explainable Machine Learning [[material]](https://github.com/MangoTheCat/explainable-machine-learning-workshop)
 - R Package Building
