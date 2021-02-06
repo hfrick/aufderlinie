@@ -11,7 +11,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 # googleAnalytics = "UA-123-45"
 # disqusShortname = "yourdiscussshortname"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"] # "_files$",
 
 [author]
   name = "Hannah Frick"

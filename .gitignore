@@ -4,7 +4,8 @@
 .Ruserdata
 
 /blogdown
-/public
+/public/
+/resources/
 
 .DS_Store
 Thumbs.db
