@@ -1,7 +1,7 @@
-+++
-title = "Teaching"
-date = "2020-02-01"
-+++
+---
+date: "2020-02-01"
+title: Teaching
+---
 
 ## RStudio Certified Instructor
 

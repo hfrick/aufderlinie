@@ -1,7 +1,7 @@
-+++
-title = "About"
-date = "2021-02-01"
-+++
+---
+date: "2021-02-01"
+title: About
+---
 
 I work as a software engineer on the [tidymodels](https://www.tidymodels.org/) team at RStudio. Previously I've done data science consulting and teaching at [Mango Solutions](https://www.mango-solutions.com/). 
 
