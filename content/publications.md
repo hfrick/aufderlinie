@@ -1,7 +1,7 @@
-+++
-title = "Publications"
-date = "2018-12-23"
-+++
+---
+date: "2018-12-23"
+title: Publications
+---
 
 ### Refereed publications and technical reports
 

@@ -1,7 +1,7 @@
-+++
-title = "Software"
-date = "2018-12-23"
-+++
+---
+date: "2018-12-23"
+title: Software
+---
 
 I have authored/maintained/contributed to the following R packages:
 
