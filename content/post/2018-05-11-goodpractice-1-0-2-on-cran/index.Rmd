@@ -42,7 +42,7 @@ You can use **goodpractice** checks as a reminder for you and your collegues - a
 
 The main fuction `goodpractice()` (and its alias `gp()`) takes the path to the source code of a package as its first argument. The **goodpractice** package contains the source for a simple package which violates some good practices. We'll use this for the examples.
 
-```{r}
+```{r warning = FALSE, message = FALSE}
 library(goodpractice)
 
 # get path to example package
