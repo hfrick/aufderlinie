@@ -9,7 +9,7 @@ title: Publications
 
 - Frick H, Strobl C, Zeileis A (2015). _Rasch Mixture Models for DIF Detection: A Comparison of Old and New Score Specifications_. Educational and Psychological Measurement, [75(2)](http://epm.sagepub.com/content/75/2/208).
 
-- Frick H, Strobl C, Zeileis A (2014). _To Split or to Mix? Tree vs. Mixture Models for Detecting Subgroups_. COMPSTAT 2014 - Proceedings in Computational Statistics, pp. 379--386. The International Statistical Institute/International Association for Statistical Computing. ISBN 978-2-8399-1347-8. [[.pdf]](../papers/Frick+Strobl+Zeileis-2014.pdf)
+- Frick H, Strobl C, Zeileis A (2014). _To Split or to Mix? Tree vs. Mixture Models for Detecting Subgroups_. COMPSTAT 2014 - Proceedings in Computational Statistics, pp. 379--386. The International Statistical Institute/International Association for Statistical Computing. ISBN 978-2-8399-1347-8. [[.pdf]](papers/Frick+Strobl+Zeileis-2014.pdf)
 
 - Frick U, Frick H, Langguth B, Landgrebe M, H&uuml;bner-Liebermann B, Hajak G (2013). _The Revolving Door Phenomenon Revisited: Time to Readmission in 17'415 Patients with 37'697 Hospitalisations at a German Psychiatric Hospital_. PLOS ONE, [8(10)](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0075612).
 
@@ -28,5 +28,5 @@ title: Publications
 
 ### PhD thesis
 
-_Mixture Models in Statistics and Psychometrics - Detecting Subgroups and Differential Item Functioning_ (2014, Department of Mathematics,     Universit&auml;t Innsbruck) [[.pdf]](../papers/Frick_thesis.pdf)
+_Mixture Models in Statistics and Psychometrics - Detecting Subgroups and Differential Item Functioning_ (2014, Department of Mathematics,     Universit&auml;t Innsbruck) [[.pdf]](papers/Frick_thesis.pdf)
 
