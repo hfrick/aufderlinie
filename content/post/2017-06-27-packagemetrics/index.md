@@ -105,9 +105,9 @@ Our discussions informed a list of things people commonly look for when they ins
 - Is it not trying to do too much - but doing its small thing well?
 - Does it have clear, concise documentation?
 
- With that, we got to work!
+With that, we got to work!
 
- ![](/pics/runconf17_team_packagemetrics.jpeg)
+ ![](runconf17_team_packagemetrics.jpeg)
 
 ## Introducing: packagemetrics
 
