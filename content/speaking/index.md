@@ -5,7 +5,7 @@ title: Speaking
 
 2020
 
-- Frick H (2020). _Assessing Model Parameter Stability in R_ Presented at ["celebRation 2020"](http://www.celebration2020.org/), Copenhagen, Denmark. [[slides]](../talks/Assessing_Model_Parameter_Stability_in_R.pdf)
+- Frick H (2020). _Assessing Model Parameter Stability in R_ Presented at ["celebRation 2020"](http://www.celebration2020.org/), Copenhagen, Denmark. [[slides]](talks/Assessing_Model_Parameter_Stability_in_R.pdf)
 
 
 2019
@@ -53,43 +53,43 @@ title: Speaking
 
 - Frick H (2016). _Tour Stop: R Markdown_. Presented at "R-Ladies London", UK.
 
-- Frick H, Kosmidis I (2016). _trackeR - Infrastructure for Running and Cycling Data in R_. Presented at "RSS 2016 International Conference", University of Manchester, UK. [[slides]](../talks/RSS2016.html)
+- Frick H, Kosmidis I (2016). _trackeR - Infrastructure for Running and Cycling Data in R_. Presented at "RSS 2016 International Conference", University of Manchester, UK. [[slides]](talks/RSS2016.html)
 
-- Frick H, Kosmidis I (2016). _trackeR - Infrastructure for Running and Cycling Data in R_. Presented at "useR! 2016 - The R User Conference", Stanford University, USA. [[slides]](../talks/useR2016.html) [[video]](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/trackeR-Intrastructure-for-running-and-cycling-data-from-GPS-enabled-tracking-devices-in-R)
+- Frick H, Kosmidis I (2016). _trackeR - Infrastructure for Running and Cycling Data in R_. Presented at "useR! 2016 - The R User Conference", Stanford University, USA. [[slides]](talks/useR2016.html) [[video]](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/trackeR-Intrastructure-for-running-and-cycling-data-from-GPS-enabled-tracking-devices-in-R)
 
 
 2015
 
-- Frick H, Kosmidis I (2015). _Tracking Data from GPS-Enabled Devices in R with Package 'trackeR'_. Presented at "Data Science in Data-Rich Sports - Alan Turing Institute Scoping Workshop", University of London, UK. [[slides]](../talks/ATI2015.pdf)
+- Frick H, Kosmidis I (2015). _Tracking Data from GPS-Enabled Devices in R with Package 'trackeR'_. Presented at "Data Science in Data-Rich Sports - Alan Turing Institute Scoping Workshop", University of London, UK. [[slides]](talks/ATI2015.pdf)
 
 - Frick H, Kosmidis I (2015). _Monitoring fatigue - How do physical status, wellness and training load relate?_ Presented at "NESSIS 2015 - New England Symposium on Statistics in Sports", Harvard University, USA.
 
 
 2014
 
-- Frick H, Strobl C, Zeileis A (2014). _To Split or to Mix? Tree vs. Mixture Models for Detecting Subgroups_. Presented at "CompStat 2014 - 21st International Conference on Computational Statistics", Geneva, Switzerland. [[slides]](../talks/CompStat2014.pdf)
+- Frick H, Strobl C, Zeileis A (2014). _To Split or to Mix? Tree vs. Mixture Models for Detecting Subgroups_. Presented at "CompStat 2014 - 21st International Conference on Computational Statistics", Geneva, Switzerland. [[slides]](talks/CompStat2014.pdf)
 
-- Frick H, Strobl C, Zeileis A (2014). _To Split or to Mix? Uncovering Group Structures with Trees and Finite Mixture Models_. Presented at "Psychoco 2014 - International Workshop on Psychometric Computing", Universität Tübingen, Germany. [[slides]](../talks/Psychoco2014.pdf)
+- Frick H, Strobl C, Zeileis A (2014). _To Split or to Mix? Uncovering Group Structures with Trees and Finite Mixture Models_. Presented at "Psychoco 2014 - International Workshop on Psychometric Computing", Universität Tübingen, Germany. [[slides]](talks/Psychoco2014.pdf)
 
 
 2013
 
-- Frick H, Strobl C, Zeileis A (2013). _Assessing Answer Patterns in Questionnaire / Item Response Data Using Mixtures of Rasch Models_. Presented at "Workshop of the ERCIM Working Group on Computing and Statistics 2013", London, UK. [[slides]](../talks/ERCIM2013.pdf)
+- Frick H, Strobl C, Zeileis A (2013). _Assessing Answer Patterns in Questionnaire / Item Response Data Using Mixtures of Rasch Models_. Presented at "Workshop of the ERCIM Working Group on Computing and Statistics 2013", London, UK. [[slides]](talks/ERCIM2013.pdf)
 
-- Frick H, Strobl C, Zeileis A (2013). _Assessing Answer Patterns in Questionnaire / Item Response Data Using Mixtures of Rasch Models_. Presented at "DAGStat 2013 - 3rd Joint Statistical Meeting", Universität Freiburg, Germany. [[slides]](../talks/DAGStat2013.pdf)
+- Frick H, Strobl C, Zeileis A (2013). _Assessing Answer Patterns in Questionnaire / Item Response Data Using Mixtures of Rasch Models_. Presented at "DAGStat 2013 - 3rd Joint Statistical Meeting", Universität Freiburg, Germany. [[slides]](talks/DAGStat2013.pdf)
 
-- Frick H, Strobl C, Leisch F, Zeileis A (2013). _On the Specification of the Score Distribution in Rasch Mixture Models_. Presented at "Psychoco 2013 - International Workshop on Psychometric Computing", Universität Zürich, Switzerland. [[slides]](../talks/Psychoco2013.pdf)
+- Frick H, Strobl C, Leisch F, Zeileis A (2013). _On the Specification of the Score Distribution in Rasch Mixture Models_. Presented at "Psychoco 2013 - International Workshop on Psychometric Computing", Universität Zürich, Switzerland. [[slides]](talks/Psychoco2013.pdf)
 
 
 2012
 
-- Frick H, Strobl C, Leisch F, Zeileis A (2012). _Mixtures of Rasch Models with R Package psychomix_. Presented at "IMPS 2012 - International Meeting of the Psychometric Society", University of Nebraska, USA. [[slides]](../talks/IMPS2012.pdf)
+- Frick H, Strobl C, Leisch F, Zeileis A (2012). _Mixtures of Rasch Models with R Package psychomix_. Presented at "IMPS 2012 - International Meeting of the Psychometric Society", University of Nebraska, USA. [[slides]](talks/IMPS2012.pdf)
 
-- Frick H, Strobl C, Leisch F, Zeileis A (2012). _Mixtures of Rasch Models with R Package psychomix_. Presented at "Psychoco 2012 - International Workshop on Psychometric Computing", Universität Innsbruck, Austria. [[slides]](../talks/Psychoco2012.pdf)
+- Frick H, Strobl C, Leisch F, Zeileis A (2012). _Mixtures of Rasch Models with R Package psychomix_. Presented at "Psychoco 2012 - International Workshop on Psychometric Computing", Universität Innsbruck, Austria. [[slides]](talks/Psychoco2012.pdf)
 
 
 2011
 
-- Frick H, Strobl C, Leisch F, Zeileis A (2011). _Latent Classes of Latent Traits: Mixture Models and Item Response Theory_. Presented at "Empirical and Experimental Economics - Research Platform Workshop", Universität Innsbruck, Austria. [[slides]](../talks/eeeconWorkshop2011-2.pdf)
+- Frick H, Strobl C, Leisch F, Zeileis A (2011). _Latent Classes of Latent Traits: Mixture Models and Item Response Theory_. Presented at "Empirical and Experimental Economics - Research Platform Workshop", Universität Innsbruck, Austria. [[slides]](talks/eeeconWorkshop2011-2.pdf)
 
-- Frick H, Leisch F, Zeileis A, Strobl C (2011). _Mixtures of Rasch Models_. Presented at "Psychoco 2011 - International Workshop on Psychometric Computing", Universität Tübingen, Germany. [[slides]](../talks/Psychoco2011.pdf)
+- Frick H, Leisch F, Zeileis A, Strobl C (2011). _Mixtures of Rasch Models_. Presented at "Psychoco 2011 - International Workshop on Psychometric Computing", Universität Tübingen, Germany. [[slides]](talks/Psychoco2011.pdf)
