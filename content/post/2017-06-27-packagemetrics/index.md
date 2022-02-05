@@ -107,7 +107,7 @@ Our discussions informed a list of things people commonly look for when they ins
 
  With that, we got to work!
 
- ![](/pics/runconf17_team_packagemetrics.jpeg)
+ ![](runconf17_team_packagemetrics.jpeg)
 
 ## Introducing: packagemetrics
 
