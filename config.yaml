@@ -57,4 +57,4 @@ markup:
     renderer:
       unsafe: true
 
-ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
