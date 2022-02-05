@@ -115,13 +115,13 @@ With Erin collecting information from CRAN, Becca and Sam from GitHub, Lori and 
 
 Our package can be installed from GitHub:
 
-```
+```r
 devtools::install_github("ropenscilabs/packagemetrics")
 ```
 
 Since our case study is table-making packages, we provide a collection of those package names in a vector named `table_packages`. With that we can collect metrics for each package using `package_list_metrics()`:
 
-```
+```r
 library(packagemetrics)
 pkg_df <- package_list_metrics(table_packages)
 str(pkg_df)
@@ -129,7 +129,7 @@ str(pkg_df)
 
 This yields a data.frame with all the metrics:
 
-```
+```r
 'data.frame':	27 obs. of  18 variables:
  $ package           : chr  "arsenal" "ascii" "compareGroups" "condformat" ...
  $ published         : chr  "2017-03-10" "2011-09-29" "2017-03-14" "2017-05-18" ...
