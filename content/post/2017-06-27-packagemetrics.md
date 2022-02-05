@@ -22,7 +22,7 @@ tags:
   - R
 ---
 
-The following blog post first appreared on the [rOpenSci blog](https://ropensci.org/blog/2017/06/27/packagemetrics/) and was written together with [Becca Krouse](http://twitter.com/bzkrouse), [Erin Grand](http://twitter.com/astroeringrand), [Lori Shepherd](http://twitter.com/lshep712), [Sam Firke](http://twitter.com/samfirke) and William Ampeh.
+The following blog post first appeared on the [rOpenSci blog](https://ropensci.org/blog/2017/06/27/packagemetrics/) and was written together with [Becca Krouse](http://twitter.com/bzkrouse), [Erin Grand](http://twitter.com/astroeringrand), [Lori Shepherd](http://twitter.com/lshep712), [Sam Firke](http://twitter.com/samfirke) and William Ampeh.
 
 ---
 
