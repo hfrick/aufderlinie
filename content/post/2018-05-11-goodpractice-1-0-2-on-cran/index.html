@@ -11,7 +11,7 @@ tags:
 comments: no
 ---
 
-<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
 
 
 <p>This post first appeared on the <a href="https://www.mango-solutions.com/blog/goodpractice-1-0-2-on-cran">Mango blog</a>.</p>
@@ -40,53 +40,14 @@ pkg_path &lt;- system.file(&quot;bad1&quot;, package = &quot;goodpractice&quot;)
 
 # run gp() on it
 g &lt;- gp(pkg_path)</code></pre>
-<pre><code>## Preparing: covr</code></pre>
-<pre><code>## Warning in MYPREPS[[prep]](state, quiet = quiet): Prep step for test coverage
-## failed.</code></pre>
-<pre><code>## Preparing: cyclocomp</code></pre>
-<pre><code>## cli      (2.3.0 -&gt; 2.3.1) [CRAN]
-## pillar   (1.4.7 -&gt; 1.5.0) [CRAN]
-## diffobj  (0.3.2 -&gt; 0.3.3) [CRAN]
-## waldo    (0.2.3 -&gt; 0.2.4) [CRAN]
-## pkgload  (1.1.0 -&gt; 1.2.0) [CRAN]
-## xfun     (0.20  -&gt; 0.21 ) [CRAN]
-## testthat (3.0.1 -&gt; 3.0.2) [CRAN]</code></pre>
-<pre><code>## Installing 7 packages: cli, pillar, diffobj, waldo, pkgload, xfun, testthat</code></pre>
-<pre><code>## Adding &#39;cli_2.3.1_R_x86_64-pc-linux-gnu.tar.gz&#39; to the cache</code></pre>
-<pre><code>## Adding &#39;diffobj_0.3.3_R_x86_64-pc-linux-gnu.tar.gz&#39; to the cache</code></pre>
-<pre><code>## Adding &#39;pillar_1.5.0_R_x86_64-pc-linux-gnu.tar.gz&#39; to the cache</code></pre>
-<pre><code>## Adding &#39;pkgload_1.2.0_R_x86_64-pc-linux-gnu.tar.gz&#39; to the cache</code></pre>
-<pre><code>## Adding &#39;testthat_3.0.2_R_x86_64-pc-linux-gnu.tar.gz&#39; to the cache</code></pre>
-<pre><code>## Adding &#39;waldo_0.2.4_R_x86_64-pc-linux-gnu.tar.gz&#39; to the cache</code></pre>
-<pre><code>## Adding &#39;xfun_0.21_R_x86_64-pc-linux-gnu.tar.gz&#39; to the cache</code></pre>
-<pre><code>##   
-   checking for file ‘/tmp/RtmpbuZJcN/remotes20e16d890dc/badpackage/DESCRIPTION’ ...
-  
-✓  checking for file ‘/tmp/RtmpbuZJcN/remotes20e16d890dc/badpackage/DESCRIPTION’
-## 
-  
-─  preparing ‘badpackage’:
-## 
-  
-✓  checking DESCRIPTION meta-information
-## 
-  
-   checking vignette meta-information ...
-  
-✓  checking vignette meta-information
-## 
-  
-─  checking for LF line-endings in source and make files and shell scripts
-## 
-  
-─  checking for empty or unneeded directories
-## ─  building ‘badpackage_1.0.0.tar.gz’
-##    
-## </code></pre>
-<pre><code>## Preparing: description</code></pre>
-<pre><code>## Preparing: lintr</code></pre>
-<pre><code>## Preparing: namespace</code></pre>
-<pre><code>## Preparing: rcmdcheck</code></pre>
+<pre><code>## 
+## * checking for file ‘/private/var/folders/f3/gr9my1s97r3654cmvzc6dngm0000gn/T/Rtmp1DHb1a/remotes33fd43805b0e/badpackage/DESCRIPTION’ ... OK
+## * preparing ‘badpackage’:
+## * checking DESCRIPTION meta-information ... OK
+## * checking vignette meta-information ... OK
+## * checking for LF line-endings in source and make files and shell scripts
+## * checking for empty or unneeded directories
+## * building ‘badpackage_1.0.0.tar.gz’</code></pre>
 <pre class="r"><code># show the result
 g</code></pre>
 <pre><code>## ── GP badpackage ───────────────────────────────────────────────────────────────
@@ -115,8 +76,8 @@ g</code></pre>
 ##     between the imported packages. Instead, import only the specific
 ##     functions you need.
 ##   ✖ fix this R CMD check ERROR: VignetteBuilder package not declared:
-##     &#39;knitr&#39; See section &#39;The DESCRIPTION file&#39; in the &#39;Writing R
-##     Extensions&#39; manual.
+##     ‘knitr’ See section ‘The DESCRIPTION file’ in the ‘Writing R
+##     Extensions’ manual.
 ##   ✖ avoid &#39;T&#39; and &#39;F&#39;, as they are just variables which are set to the
 ##     logicals &#39;TRUE&#39; and &#39;FALSE&#39; by default, but are not reserved words
 ##     and hence can be overwritten by the user.  Hence, one should always
