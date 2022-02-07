@@ -12,7 +12,7 @@ tags:
 comments: no
 ---
 
-On the tidymodels team, I split time between new things like the [censored package for survival analysis](https://www.tidyverse.org/blog/2021/11/survival-analysis-parsnip-adjacent/) and keeping the existing packages in good shape. 
+On the tidymodels team, I split time between new things like the [censored package for survival analysis](https://www.tidyverse.org/blog/2021/11/survival-analysis-parsnip-adjacent/) and keeping the existing packages in good shape.
 
 As the collection of packages grows, maintenance becomes increasingly important. Hadley Wickham made it the topic of his [keynote at rstudio::global 2021](https://www.rstudio.com/resources/rstudioglobal-2021/maintaining-the-house-the-tidyverse-built/). 
 The [usethis](https://usethis.r-lib.org/) package provides tools for the workflows when working on tidyverse, r-lib, or tidymodels packages and as such contains the set of labels used to categorize GitHub issues. Day-to-day maintenance is captured via the `"upkeep"` label for "maintenance, infrastructure, and similar". For bigger efforts, `use_tidy_upkeep_issue()` creates an issue containing a checklist of actions to bring a package up to current tidyverse standards.
