@@ -5,14 +5,13 @@ title: "Upkeep Learnings - testthat edition 3"
 author: Hannah Frick
 date: '2022-02-07'
 slug: upkeep-testthat-3e
-draft: true
 categories:
   - R
 tags:
   - upkeep
   - testthat
 comments: no
-rmd_hash: 4fbdfd2e9e23d085
+rmd_hash: 0bcd556e3da1c96f
 
 ---
 
