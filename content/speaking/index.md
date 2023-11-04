@@ -1,7 +1,21 @@
 ---
-date: "2020-03-07"
+date: "2023-11-04"
 title: Speaking
 ---
+
+2023
+
+- _Cognition: Programming Edition!_. Keynote at [LatinR](https://latin-r.com/), Montevideo, Uruguay. [[slides]](https://hfrick.github.io/2023-latinr/)
+
+2022
+
+- _censored - A tidymodels package for survival models_. rstudio::conf(2022), Washington D.C., U.S.A. [[slides]](https://hfrick.github.io/rstudio-conf-2022/)
+- _censored - A tidymodels package for survival models_. useR! 2022, online.
+- _censored - A tidymodels package for survival models_. [R/Medicine 2022](https://events.linuxfoundation.org/archive/2022/r-medicine/), online.
+- _censored - A tidymodels package for survival models_. [CANSSI Ontario Statistical Software Conference](https://canssiontario.utoronto.ca/event/statistical-software-conference/), online.
+- _censored - A tidymodels package for survival models_. R-Ladies London, online.
+
+- Panel Discussion: _Frontliners and Next Frontiers of Statistical Computing in Data Science_ at [Statistical Computing in Action](https://asa-ssc.github.io/minisymp2022/), online.
 
 2020
 
