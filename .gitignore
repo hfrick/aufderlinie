@@ -3,11 +3,5 @@
 .RData
 .Ruserdata
 
-/blogdown
-/public/
-/resources/
-
-.DS_Store
-Thumbs.db
-
-.hugo_build.lock
+/.quarto/
+/_site/

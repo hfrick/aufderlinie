@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Hannah Frick"
+  site-url: "https://www.frick.ws"
+  description: "A data science blog"
+  navbar:
+    right:
+      - about.qmd
+      - href: speaking.qmd
+        text: Speaking
+      - href: software.qmd
+        text: Software
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - blog.qmd
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
