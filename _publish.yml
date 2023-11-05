@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: "206bf17d-5fbd-404c-87df-71d208cd1107"
+      url: "https://www.frick.ws"
