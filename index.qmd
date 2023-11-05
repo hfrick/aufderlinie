@@ -1,0 +1,18 @@
+---
+title: "Hannah Frick"
+subtitle: "Software Engineer | Statistician"
+about: 
+  template: jolla
+  image: resources/avatar.jpeg
+  links:
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodon.social/@hfrick
+    - icon: github
+      text: Github
+      href: https://github.com/hfrick
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/hannah-frick
+---
+

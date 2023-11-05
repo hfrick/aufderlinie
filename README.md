@@ -2,11 +2,6 @@
 
 # frick.ws
 
-This repo is the source of <https://frick.ws>.
+This repo is the source of <https://www.frick.ws>.
 
-## Workflow
-
-The website is build with [hugodown](https://github.com/r-lib/hugodown). 
-
-- Posts are turned from `.Rmd` to `.md` by knitting them. They need `output: hugodown::hugo_document` in the yaml up top.
-- Hugo then turns the `.md` to `.html` - see it happen with `hugodown::hugo_start()`.
+Built with Quarto.
