@@ -7,7 +7,8 @@ website:
   description: "A data science blog"
   navbar:
     right:
-      - about.qmd
+      - href: about.qmd
+        text: About
       - href: speaking.qmd
         text: Speaking
       - href: software.qmd
