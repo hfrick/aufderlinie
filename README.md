@@ -3,3 +3,5 @@
 # frick.ws
 
 This repo is the source of <https://www.frick.ws>.
+
+Built with Quarto.
