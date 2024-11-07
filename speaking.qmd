@@ -5,7 +5,7 @@
 - _tidymodels for time-to-event data_ [EARL 2024](https://earl-conference.com/), Brighton, UK. [[slides]](https://hfrick.github.io/2024-EARL/)
 - _Survival analysis with tidymodels_ [RSS 2024](https://rss.org.uk/training-events/conference-2024/),  Brighton, UK. [[slides]](https://hfrick.github.io/2024-RSS/)
 - _tidymodels for time-to-event data_ [posit::conf(2024)](https://posit.co/conference/), Seattle, USA. [[slides]](https://hfrick.github.io/2024-posit-conf/) [[video]](https://www.youtube.com/watch?v=NhUGixMJk7U&pp=ygUMaGFubmFoIGZyaWNr)
-- _tidymodels - Now also for time-to-event data!_ [useR 2024](https://events.linuxfoundation.org/user/), Salzburg, Austria. [[slides]](https://hfrick.github.io/2024-useR/)
+- _tidymodels - Now also for time-to-event data!_ [useR! 2024](https://events.linuxfoundation.org/user/), Salzburg, Austria. [[slides]](https://hfrick.github.io/2024-useR/)
 - _Survival analysis with tidymodels_ [R-medicine 2024](https://rconsortium.github.io/RMedicine_2024/), online. [[slides]](https://hfrick.github.io/2024-R-medicine/)
 - _Survival analysis is coming to tidymodels!_ [SatRdays London 2024](https://satrday-london-2024.jumpingrivers.com/), London, UK. [[slides]](https://hfrick.github.io/2024-SatRdays-London/)
 - _Why you should be using tidymodels_ RUG at EMD Serono, online. [[slides]](https://hfrick.github.io/2024-tidymodels-emdserono/)
