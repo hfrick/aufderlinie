@@ -8,9 +8,13 @@ about:
     - icon: mastodon
       text: Mastodon
       href: https://mastodon.social/@hfrick
+    - text: "{{< fa brands bluesky >}} Bluesky"
+      href: https://bsky.app/profile/hfrick.bsky.social
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/hfrick
+    - text: "{{< fa brands orcid >}} Orcid"
+      href: https://orcid.org/0000-0002-6049-5258
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/hannah-frick
