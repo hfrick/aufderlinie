@@ -10,9 +10,11 @@
 - _Survival analysis is coming to tidymodels!_ [SatRdays London 2024](https://satrday-london-2024.jumpingrivers.com/), London, UK. [[slides]](https://hfrick.github.io/2024-SatRdays-London/)
 - _Why you should be using tidymodels_ RUG at EMD Serono, online. [[slides]](https://hfrick.github.io/2024-tidymodels-emdserono/)
 
+
 ### 2023
 
 - _Cognition: Programming Edition!_ Keynote at [LatinR](https://latin-r.com/), Montevideo, Uruguay. [[slides]](https://hfrick.github.io/2023-latinr/)
+
 
 ### 2022
 
@@ -23,6 +25,7 @@
 - _censored - A tidymodels package for survival models_. [R-Ladies London](https://www.meetup.com/rladies-london/), online.
 
 - Panel Discussion: _Frontliners and Next Frontiers of Statistical Computing in Data Science_ at [Statistical Computing in Action](https://asa-ssc.github.io/minisymp2022/), online.
+
 
 ### 2020
 
