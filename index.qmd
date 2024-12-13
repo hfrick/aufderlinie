@@ -9,7 +9,7 @@ about:
       text: Mastodon
       href: https://mastodon.social/@hfrick
     - text: "{{< fa brands bluesky >}} Bluesky"
-      href: https://bsky.app/profile/hfrick.bsky.social
+      href: https://bsky.app/profile/frick.ws
     - icon: github
       text: GitHub
       href: https://github.com/hfrick
