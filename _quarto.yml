@@ -1,10 +1,12 @@
 project:
   type: website
+  resources: 
+    - ".well-known/atproto-did"
 
 website:
   title: "Hannah Frick"
   site-url: "https://www.frick.ws"
-  description: "A data science blog"
+  description: "Software Engineer | Statistician"
   navbar:
     right:
       - href: about.qmd
