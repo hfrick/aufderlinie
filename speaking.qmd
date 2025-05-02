@@ -1,6 +1,11 @@
+### 2025
+
+- _Cognition: Programming Edition!_ [LondonR](https://www.meetup.com/londonr/), London, UK. [[slides]](https://hfrick.github.io/2025-LondonR/)
+
 
 ### 2024
 
+- _What's new with tidymodels?_ [LondonR](https://www.meetup.com/londonr/), London, UK. [[slides]](https://hfrick.github.io/2024-LondonR/)
 - _What's new with tidymodels?_ Keynote at [III Congreso & XIV Jornadas de Usuarios de R](https://imus.us.es/congresos/IIIRqueR/), Sevilla, Spain. [[slides]](https://hfrick.github.io/2024-3RqueR/)
 - _tidymodels for time-to-event data_ [EARL 2024](https://earl-conference.com/), Brighton, UK. [[slides]](https://hfrick.github.io/2024-EARL/)
 - _Survival analysis with tidymodels_ [RSS 2024](https://rss.org.uk/training-events/conference-2024/),  Brighton, UK. [[slides]](https://hfrick.github.io/2024-RSS/)
