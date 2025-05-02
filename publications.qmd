@@ -7,7 +7,7 @@
 
 - Frick H, Strobl C, Zeileis A (2014). _To Split or to Mix? Tree vs. Mixture Models for Detecting Subgroups_. COMPSTAT 2014 - Proceedings in Computational Statistics, pp. 379--386. The International Statistical Institute/International Association for Statistical Computing. ISBN 978-2-8399-1347-8. [[.pdf]](papers/Frick+Strobl+Zeileis-2014.pdf)
 
-- Frick U, Frick H, Langguth B, Landgrebe M, H&uuml;bner-Liebermann B, Hajak G (2013). _The Revolving Door Phenomenon Revisited: Time to Readmission in 17'415 Patients with 37'697 Hospitalisations at a German Psychiatric Hospital_. PLOS ONE, [8(10)](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0075612).
+- Frick U, Frick H, Langguth B, Landgrebe M, H&uuml;bner-Liebermann B, Hajak G (2013). _The Revolving Door Phenomenon Revisited: Time to Readmission in 17'415 Patients with 37'697 Hospitalisations at a German Psychiatric Hospital_. PLOS ONE, [8(10)](https://doi.org/10.1371/journal.pone.0075612).
 
 - Frick H, Strobl C, Leisch F, Zeileis A (2012). _Flexible Rasch Mixture Models with Package psychomix_. Journal of Statistical Software, [48(7)](http://www.jstatsoft.org/v48/i07/).
 
