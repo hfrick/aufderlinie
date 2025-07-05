@@ -5,7 +5,7 @@ I am a [certified instructor](https://education.rstudio.com/trainers/) for the t
 
 ### Industry training courses
 
-At Posit, I develop and teach [tidymodels workshops](https://workshops.tidymodels.org/) as part of the tidymodels team.
+At Posit, I develop and teach [tidymodels workshops](https://workshops.tidymodels.org/) as part of the tidymodels team, including a workshop on [survival analysis with tidymodels](https://hfrick.github.io/tidymodels-survival-workshop/).
 
 At [Mango Solutions](https://www.mango-solutions.com/training/r-training/), I was involved in the development and delivery of various data science training courses in R and Python, e.g.,
 
