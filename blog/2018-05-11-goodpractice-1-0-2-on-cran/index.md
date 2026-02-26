@@ -5,6 +5,7 @@ categories:
   - R
   - goodpractice
   - pkg-building
+image: goodpractice.png
 ---
 
 
